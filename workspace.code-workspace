@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../CURSO PRACTICO HTML/CONTAINER"
+		},
+		{
+			"path": "../CURSO PRACTICO HTML/ResponsiveDesing"
+		},
+		{
+			"path": "../CURSO PRACTICO HTML/ResponsiveImgs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ResponsiveImgs"
+	}
+}
